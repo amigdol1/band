@@ -1,0 +1,21 @@
+.outline {
+  margin: 12px;
+  border: 2px dashed black;
+  padding: 5px;
+  font-family: monospace;
+}
+
+.column {
+  float:right;
+  width: 50%;
+  padding: 10px;
+}
+
+p {
+  font-family: monospace;
+}
+
+.space {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
